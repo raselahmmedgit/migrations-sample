@@ -1,0 +1,11 @@
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\bin\RnD.MigrationsSample.dll
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\bin\RnD.MigrationsSample.pdb
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\bin\EntityFramework.dll
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\bin\EntityFramework.SqlServer.dll
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\bin\EntityFramework.xml
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\bin\EntityFramework.SqlServer.xml
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\obj\Debug\RnD.MigrationsSample.dll
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\obj\Debug\RnD.MigrationsSample.pdb
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\obj\Debug\RnD.MigrationsSample.Migrations.InitialCreate.resources
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\obj\Debug\RnD.MigrationsSample.csproj.GenerateResource.Cache
+E:\Bappi\RnD Final\RnD.MigrationsSample\RnD.MigrationsSample\obj\Debug\RnD.MigrationsSample.Migrations.AddQuantityToProduct.resources
